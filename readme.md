@@ -45,7 +45,8 @@ This will generate and display the animations for the particle dynamics and ener
 The simulation parameters can be adjusted in ``simulation.py``:
 
 - ``n``: Number of particles
-- ``d``: Dimensions (for S^2, use d=3)
+- ``d``: Dimensions (for $\mathbb{S}^2$, use d=3)
+
 - ``beta``: Inverse temperature
 - ``dt``: Time step
 - ``steps``: Number of integration steps
