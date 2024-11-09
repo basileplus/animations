@@ -2,7 +2,7 @@
 
 This project implements the modelization made in [A mathematical perspective on Transformers (2023)](https://arxiv.org/abs/2312.10794) paper. In this paper, authors propose a new mathematical model for transformers, based on the dynamics of particles. This repository contains the code to generate the following animation to illustrate the findings.
 
-![Particle Dynamics Animation](media/videos/animation/1080p60/EnergyGraphScene.mp4)
+![Particle Dynamics Animation](media/anim.gif)
 
 ## Project Structure
 
